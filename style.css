@@ -36,7 +36,7 @@ h1, h2, h3, h4, .logo {
     padding: 0 20px;
 }
 
-/* BUTTONS */
+
 .btn {
     display: inline-block;
     padding: 14px 32px;
@@ -84,7 +84,7 @@ h1, h2, h3, h4, .logo {
     color: var(--white);
 }
 
-/* NAVBAR */
+
 .navbar {
     position: sticky;
     top: 0;
@@ -154,7 +154,7 @@ h1, h2, h3, h4, .logo {
     background-color: var(--primary);
 }
 
-/* HERO SECTION */
+
 .hero {
     background: linear-gradient(135deg, var(--dark) 0%, #37474F 100%);
     color: var(--white);
@@ -187,7 +187,7 @@ h1, h2, h3, h4, .logo {
     max-width: 500px;
 }
 
-/* SECTIONS GENERIQUES */
+
 .section-header {
     text-align: center;
     margin-bottom: 60px;
@@ -232,7 +232,7 @@ h1, h2, h3, h4, .logo {
     box-shadow: var(--shadow);
 }
 
-/* Placeholder si pas d'image */
+
 .icon-placeholder {
     font-size: 4rem;
     margin-bottom: 15px;
@@ -243,7 +243,7 @@ h1, h2, h3, h4, .logo {
     color: var(--primary);
 }
 
-/* PRICING SECTION */
+
 .pricing-section {
     padding: 100px 0;
     background-color: var(--light);
@@ -348,7 +348,7 @@ h1, h2, h3, h4, .logo {
     width: 100%;
 }
 
-/* BENEFICES SECTION */
+
 .alt-section {
     padding: 100px 0;
     background-color: var(--white);
@@ -379,7 +379,7 @@ h1, h2, h3, h4, .logo {
     background-color: var(--primary);
 }
 
-/* TEAM SECTION (NEW) */
+
 .team-section {
     padding: 100px 0;
     background-color: var(--light);
@@ -468,7 +468,7 @@ h1, h2, h3, h4, .logo {
     font-weight: 500;
 }
 
-/* CONTACT SECTION */
+
 .contact-section {
     padding: 100px 0;
     background-color: var(--white);
@@ -527,7 +527,7 @@ h1, h2, h3, h4, .logo {
     width: 100%;
 }
 
-/* FOOTER */
+
 footer {
     background-color: var(--dark);
     color: #b0bec5;
@@ -572,7 +572,7 @@ footer {
     font-size: 0.8rem;
 }
 
-/* RESPONSIVE */
+
 @media (max-width: 768px) {
     .nav-links {
         display: none;
